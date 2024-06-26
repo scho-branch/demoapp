@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f221ffd.css",
-    "main.js": "/static/js/main.04f087fa.js",
-    "static/media/bghero.jpg": "/static/media/bghero.afa451dd55a048aafefb.jpg",
-    "index.html": "/index.html",
-    "static/media/logo.svg": "/static/media/logo.602f42bc5247b6c8fc88dcf001c1a477.svg",
-    "main.0f221ffd.css.map": "/static/css/main.0f221ffd.css.map",
-    "main.04f087fa.js.map": "/static/js/main.04f087fa.js.map"
+    "main.css": "/react-deploy/static/css/main.6b31d831.css",
+    "main.js": "/react-deploy/static/js/main.ea880a42.js",
+    "static/media/bghero.jpg": "/react-deploy/static/media/bghero.afa451dd55a048aafefb.jpg",
+    "index.html": "/react-deploy/index.html",
+    "static/media/logo.svg": "/react-deploy/static/media/logo.602f42bc5247b6c8fc88dcf001c1a477.svg",
+    "main.6b31d831.css.map": "/react-deploy/static/css/main.6b31d831.css.map",
+    "main.ea880a42.js.map": "/react-deploy/static/js/main.ea880a42.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f221ffd.css",
-    "static/js/main.04f087fa.js"
+    "static/css/main.6b31d831.css",
+    "static/js/main.ea880a42.js"
   ]
 }
