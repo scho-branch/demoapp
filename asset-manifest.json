@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ehyundai-demoapp_0627/static/css/main.439caf51.css",
-    "main.js": "/ehyundai-demoapp_0627/static/js/main.31b86235.js",
-    "static/media/bghero.jpg": "/ehyundai-demoapp_0627/static/media/bghero.afa451dd55a048aafefb.jpg",
-    "index.html": "/ehyundai-demoapp_0627/index.html",
-    "static/media/logo.svg": "/ehyundai-demoapp_0627/static/media/logo.602f42bc5247b6c8fc88dcf001c1a477.svg",
-    "main.439caf51.css.map": "/ehyundai-demoapp_0627/static/css/main.439caf51.css.map",
-    "main.31b86235.js.map": "/ehyundai-demoapp_0627/static/js/main.31b86235.js.map"
+    "main.css": "/demoapp/static/css/main.d504d208.css",
+    "main.js": "/demoapp/static/js/main.e9eadd52.js",
+    "static/media/bghero.jpg": "/demoapp/static/media/bghero.afa451dd55a048aafefb.jpg",
+    "index.html": "/demoapp/index.html",
+    "static/media/logo.svg": "/demoapp/static/media/logo.602f42bc5247b6c8fc88dcf001c1a477.svg",
+    "main.d504d208.css.map": "/demoapp/static/css/main.d504d208.css.map",
+    "main.e9eadd52.js.map": "/demoapp/static/js/main.e9eadd52.js.map"
   },
   "entrypoints": [
-    "static/css/main.439caf51.css",
-    "static/js/main.31b86235.js"
+    "static/css/main.d504d208.css",
+    "static/js/main.e9eadd52.js"
   ]
 }
